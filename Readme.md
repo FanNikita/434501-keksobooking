@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Фандюшин](https://up.htmlacademy.ru/javascript/16/user/434501).
-* Наставник: [Валерий Заочный](https://htmlacademy.ru/profile/id544753).
+* Наставник: [Валерий Заочный](https://htmlacademy.ru/profile/id544753).   
 
 ---
 
@@ -9,6 +9,7 @@ _Не удаляйте и не обращайте внимание на файл
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
 
 ---
+
 
 ### Памятка
 
